@@ -3,32 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hama6767.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://hama6767.github.io/pl/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://hama6767.github.io/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://hama6767.github.io/pt/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hama6767.github.io/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://hama6767.github.io/categories/</loc>
+    <loc>https://hama6767.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -67,31 +42,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hama6767.github.io/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://hama6767.github.io/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://hama6767.github.io/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://hama6767.github.io/fr/contact/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hama6767.github.io/contact/"
+                href="https://hama6767.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://hama6767.github.io/</loc>
+    <loc>https://hama6767.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -130,25 +91,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hama6767.github.io/ja/"
+                href="https://hama6767.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hama6767.github.io/"
+                href="https://hama6767.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>https://hama6767.github.io/tags/index/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hama6767.github.io/blog/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hama6767.github.io/tags/</loc>
+    <loc>https://hama6767.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -187,12 +140,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hama6767.github.io/ja/tags/"
+                href="https://hama6767.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hama6767.github.io/tags/"
+                href="https://hama6767.github.io/en/tags/"
                 />
   </url>
   

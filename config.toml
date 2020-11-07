@@ -1,7 +1,7 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 baseurl                 = "https://hama6767.github.io/"
-DefaultContentLanguage  = "en"
+DefaultContentLanguage  = "ja"
 title                   = "Hama6767"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
@@ -34,28 +34,28 @@ disableLanguages        = [""]
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "hama6767"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
     languageMenu        = true
 
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    header                = "卍Whitewalls67のホームページ卍"
+    paragraph             = "インターネットのみなさんこんにちは．"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/logo.jpg"
+      src                 = "img/main/china.png"
       shape               = "circle"
       width               = ""
       alt                 = "Hugo Future Imperfect Slim"
 
   [params.sidebar]
-    about               = "This theme was developed for Hugo static site generator."
+    about               = "忘備録とかかく"
     postAmount          = 5
     categories          = true
     categoriesByCount   = true

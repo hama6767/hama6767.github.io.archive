@@ -7,11 +7,6 @@
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://hama6767.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="https://hama6767.github.io/fr/about/"
                 />
@@ -19,6 +14,11 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://hama6767.github.io/pt/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hama6767.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -32,7 +32,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hama6767.github.io/categories/"
+                href="https://hama6767.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -67,7 +67,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hama6767.github.io/ja/categories/"
+                href="https://hama6767.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -81,7 +81,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hama6767.github.io/"
+                href="https://hama6767.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -116,7 +116,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hama6767.github.io/ja/"
+                href="https://hama6767.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -130,7 +130,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hama6767.github.io/tags/"
+                href="https://hama6767.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -165,7 +165,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hama6767.github.io/ja/tags/"
+                href="https://hama6767.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
