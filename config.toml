@@ -50,7 +50,7 @@ publishDir = "docs"
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/china.png"
+      src                 = "img/main/china.jpg"
       shape               = "circle"
       width               = ""
       alt                 = "Hugo Future Imperfect Slim"
