@@ -32,6 +32,7 @@ draft = "False"
 ![DSC05360](https://user-images.githubusercontent.com/38000954/98978711-b98ace00-255d-11eb-9228-f729c53aaa0f.JPG)
 
 夜のプラハの街並。メチャクチャおしゃれな雰囲気で、治安もよく、街全体が落ち着いた雰囲気ですね。写真には写っていませんがマリファナ屋がかなり目立ちました、チェコではある程度合法化されているようです。
+
 ![DSC05376](https://user-images.githubusercontent.com/38000954/98982907-6c115f80-2563-11eb-88cf-e6a504c62bb1.JPG)
 
 
